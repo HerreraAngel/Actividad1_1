@@ -12,4 +12,4 @@ Empezamos clonando el repositorio
 
 ## Fusion de las ramas 
 
-![3](3/fusion.PNG)
+![3](3/Creaciondelaramayfusion.PNG)
