@@ -3,7 +3,7 @@
 ## Creando nuestra cuenta de GitHub
 Primero, comenzamos creando nuestra cuenta en GitHub. A continuación, se muestra una captura de pantalla del proceso:
 
-![Crear cuenta en GitHub](unidad1/1/1.PNG)
+![Crear cuenta en GitHub](1/1.PNG)
 
 ## Generación de la clave SSH
 A continuación, generamos nuestra clave SSH, que nos permitirá autenticar nuestra conexión con GitHub de forma segura. Aquí están las imágenes que muestran el proceso:
@@ -35,5 +35,5 @@ A continuación, creamos dos ficheros, los cuales añadimos y commiteamos en nue
 
 Luego, se nos solicita editar uno de los ficheros. Para ello, abrimos nuestro editor de texto y realizamos las modificaciones necesarias:
 
-![Edición de ficheros - Paso 1](unidad1/1/Captura.PNG  )
-![Edición de ficheros - Paso 2](unidad1/1/edicion.PNG  )
+![Edición de ficheros - Paso 1](1/Captura.PNG  )
+![Edición de ficheros - Paso 2](1/edicion.PNG  )
