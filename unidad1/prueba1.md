@@ -9,8 +9,8 @@ Primero, comenzamos creando nuestra cuenta en GitHub. A continuación, se muestr
 A continuación, generamos nuestra clave SSH, que nos permitirá autenticar nuestra conexión con GitHub de forma segura. Aquí están las imágenes que muestran el proceso:
 
 ![Generación de clave SSH - Paso 1](unidad1/1/2.PNG)
-![Generación de clave SSH - Paso 2](unidad1/1/3.PNG )
-![Generación de clave SSH - Paso 3](unidad1/1/4.PNG  )
+![Generación de clave SSH - Paso 2](unidad1/1/3.PNG)
+![Generación de clave SSH - Paso 3](unidad1/1/4.PNG)
 
 ## Conexión a la máquina a través de SSH con Git Bash
 Después de generar la clave, nos conectamos a nuestra máquina utilizando SSH a través de Git Bash:
